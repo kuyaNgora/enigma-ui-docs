@@ -12,7 +12,6 @@ import DrawerExample from "./drawer";
 import DropdownExample from "./dropdown";
 import FileInputExample from "./file";
 import FilterExample from "./filter";
-import FooterExample from "./footer";
 import GuideExample from "./guide";
 import HeroExample from "./hero";
 import IndicatorExample from "./indicator";
@@ -67,7 +66,6 @@ const routes = [
   { path: "drawer", element: DrawerExample },
   { path: "radio-button", element: RadioButtonsExample },
   { path: "date-picker", element: DatePickerExample },
-  { path: "footer", element: FooterExample },
 ];
 
 export default routes;

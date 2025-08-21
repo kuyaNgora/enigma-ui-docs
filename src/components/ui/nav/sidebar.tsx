@@ -59,7 +59,6 @@ const navItems = [
     items: [
       { label: "Divider", path: "/docs/divider" },
       { label: "Drawer", path: "/docs/drawer" },
-      { label: "Footer", path: "/docs/footer" },
       { label: "Hero", path: "/docs/hero" },
       { label: "Indicator", path: "/docs/indicator" },
     ],
