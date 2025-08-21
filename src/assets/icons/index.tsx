@@ -1,0 +1,18 @@
+export { default as IconAddUser } from "./add-user.svg?react";
+export { default as IconBox } from "./box.svg?react";
+export { default as IconCashOff } from "./cash-off.svg?react";
+export { IconCheckCircle } from "./check-circle";
+export { IconClipboard } from "./clipboard";
+export { default as IconDate } from "./date.svg?react";
+export { default as IconDoc } from "./doc.svg?react";
+export { default as IconDot } from "./dot.svg?react";
+export { default as IconFile } from "./file.svg?react";
+export { default as IconFolder } from "./folder.svg?react";
+export { IconHandshake } from "./handshake";
+export { default as IconImage } from "./image.svg?react";
+export { default as IconLocation } from "./location.svg?react";
+export { default as IconSearch } from "./search.svg?react";
+export { default as IconSend } from "./send.svg?react";
+export { default as IconSyncAll } from "./sync-all.svg?react";
+export { default as IconTracker } from "./tracker.svg?react";
+export { IconTruck } from "./truck";
